@@ -84,8 +84,6 @@ dotnet run --project tools/MiniPdm.Report -- samples docs/import-report.md
 
 Зависимости собираются вручную в App.xaml.cs. Для небольшого приложения контейнер не нужен. Все сервисы получают зависимости через конструкторы. В MainWindow.xaml.cs только InitializeComponent; логика интерфейса находится в MainViewModel.
 
-Путеводитель по реализации: [docs/code-guide.md](docs/code-guide.md).
-
 База данных и запрос состава
 
 Скрипт схемы: src/MiniPdm.Infrastructure/Sql/Schema.sql. Он включён в сборку как ресурс и выполняется при старте. Используются таблицы pdm_object, object_version, bom_link, внешние ключи, уникальные индексы и ограничения количества. Триггеры защищают атрибуты и связи утверждённых/аннулированных версий и проверяют переходы состояний.
