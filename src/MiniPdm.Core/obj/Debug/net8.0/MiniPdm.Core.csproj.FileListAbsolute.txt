@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\MiniPdm\src\MiniPdm.Core\bin\Debug\net8.0\MiniPdm.Core.deps.json
+C:\Users\user\Desktop\MiniPdm\src\MiniPdm.Core\bin\Debug\net8.0\MiniPdm.Core.dll
+C:\Users\user\Desktop\MiniPdm\src\MiniPdm.Core\bin\Debug\net8.0\MiniPdm.Core.pdb
+C:\Users\user\Desktop\MiniPdm\src\MiniPdm.Core\obj\Debug\net8.0\MiniPdm.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MiniPdm\src\MiniPdm.Core\obj\Debug\net8.0\MiniPdm.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MiniPdm\src\MiniPdm.Core\obj\Debug\net8.0\MiniPdm.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\MiniPdm\src\MiniPdm.Core\obj\Debug\net8.0\MiniPdm.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MiniPdm\src\MiniPdm.Core\obj\Debug\net8.0\MiniPdm.Core.dll
+C:\Users\user\Desktop\MiniPdm\src\MiniPdm.Core\obj\Debug\net8.0\refint\MiniPdm.Core.dll
+C:\Users\user\Desktop\MiniPdm\src\MiniPdm.Core\obj\Debug\net8.0\MiniPdm.Core.pdb
+C:\Users\user\Desktop\MiniPdm\src\MiniPdm.Core\obj\Debug\net8.0\ref\MiniPdm.Core.dll
